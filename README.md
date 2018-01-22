@@ -8,17 +8,17 @@ In version 0.6.0 or later, it also records the operation of the search & replace
 
 # Shortcuts
 
-```ctrl-x (```  start recording
+```alt-,```  start recording
 
-```ctrl-x )```  stop recording
+```alt-.```  stop recording
 
-```ctrl-x e```  execute macro
+```alt-/```  execute macro
 
-```ctrl-x ctrl-e```  execute macro N times
+```alt-shift-/```  execute macro N times
 
-```ctrl-x b```  execute macro to the end of file
+```alt-b```  execute macro to the end of file
 
-```ctrl-x ctrl-b``` execute macro from the beginning to the end of file
+```alt-shift-b``` execute macro from the beginning to the end of file
 
 # Other Methods
 
